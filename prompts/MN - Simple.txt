@@ -1,0 +1,16 @@
+I need to generate new NLI items for a given trait. Here are some examples:
+###
+Trait: High Discrimination
+Items (3):
+1. Premise: He did not disagree with the party's position, but felt that if he resigned, his popularity with Indians would cease to stifle the party's membership. Implication: He agreed with the party's position, but felt that if he resigned, his popularity with Indians would cease to stifle the party's membership.
+2. Premise: The market is about to get harder, but possible to navigate. Implication: The market is about to get harder, but not impossible to navigate.
+3. Premise: Pursuing a strategy of violent protest, Gandhi took the administration by surprise and won concessions from the authorities. Contradiction: Pursuing a strategy of nonviolent protest, Gandhi took the administration by surprise and won concessions from the authorities
+###
+Trait: Low Discrimination
+Items (3):
+1. Premise: The new gaming console is unaffordable. Contradiction: The new gaming console is affordable.
+2. Premise: Even after now finding out that it's animal feed, I will never stop being addicted to Flamin' Hot Cheetos. Implication: Even after now finding out that it's animal feed, I won't ever stop being addicted to Flamin' Hot Cheetos.
+3. Premise: Brexit is a reversible decision, Sir Mike Rake, the chairman of WorldPay and ex-chairman of BT group, said as calls for a second EU referendum were sparked last week. Contradiction: Brexit is an irreversible decision, Sir Mike Rake, the chairman of WorldPay and ex-chairman of BT group, said as calls for a second EU referendum were sparked last week.
+###
+Trait: High Discrimination
+New Items (5):

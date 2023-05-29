@@ -1,0 +1,16 @@
+I need to generate new NLI items for a given trait. Here are some examples:
+###
+Trait: High Discrimination
+Items (3):
+1. Premise: Considering this definition, it is surprising to find frequent use of sarcastic language in opinionated user generated content. Contradiction: Considering this definition, it is not surprising to find frequent use of sarcastic language in opinionated user generated content.
+2. Premise: The cat did not sit on the mat. Contradiction: The cat sat on the mat.
+3. Premise: He has a conflict of interest. Implication: Either he has a blind trust or he has a conflict of interest.
+###
+Trait: Low Discrimination
+Items (3):
+1. Premise: Pedro doesn't have a donkey. Implication: If Pedro has a donkey, then he beats it.
+2. Premise: Out of the box, Ouya supports media apps such as Twitch.tv and XBMC media player. Contradiction: Out of the box, Ouya doesn't support media apps such as Twitch.tv and XBMC media player.
+3. Premise: Both doctor and patient bear some responsibility for successful care. Neutral: The attorney bears some responsibility for successful care.
+###
+Trait: High Discrimination
+New Items (5):

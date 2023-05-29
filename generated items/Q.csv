@@ -1,0 +1,46 @@
+item,label,Prompt Type,Top P
+"Premise: Most of the participants in the study showed an improvement in their scores. 
+
+Hypothesis: Some of the participants in the study showed an improvement in their scores. ",entailment,Elaborated,0.5
+"Premise: We are offering a free trial to all our new customers. 
+
+Hypothesis: We are offering a free trial to some of our new customers. ",entailment,Simple,0.5
+"Premise: I made sure to read up on all the tips and tricks to help me succeed in the interview. 
+
+Hypothesis: I made sure to read up on some of the tips and tricks to help me succeed in the interview. ",entailment,Elaborated,1
+"Premise: All of the members of the team are highly experienced. 
+
+Hypothesis: Some of the members of the team are highly experienced. ",entailment,Elaborated,0.5
+"Premise: We evaluate all of the applications thoroughly. 
+
+Hypothesis: We evaluate some of the applications thoroughly. ",entailment,Elaborated,1
+"Premise: We have collected data from all the participants. 
+
+Hypothesis: We have collected data from some of the participants. ",entailment,Simple,0.5
+"Premise: She's won all of her tennis matches this year. 
+
+Hypothesis: She's won nearly all of her tennis matches this year. ",entailment,Simple,1
+"Premise: All of the customers have been satisfied with our service. 
+
+Hypothesis: Some of the customers have been satisfied with our service. ",entailment,Simple,0.5
+"Premise: We considered all the available evidence before making our decision. 
+
+Hypothesis: We considered some of the available evidence before making our decision. ",entailment,Elaborated,0.5
+"Premise: None of my family members are attending the graduation ceremony. 
+
+Hypothesis: Most of my family members are attending the graduation ceremony. ",contradiction,Simple,1
+"Premise: Every employee was given a raise. 
+
+Hypothesis: Some employees were not given a raise. ",contradiction,Elaborated,0.5
+"Premise: Most of the students in the program received an A on the final exam. 
+
+Hypothesis: All of the students in the program received an A on the final exam. ",contradiction,Elaborated,0.5
+"Premise: Most of the applicants were rejected. 
+
+Hypothesis: No applicants were rejected. ",contradiction,Elaborated,0.5
+"Premise: No police officer in the city has used a stun gun. 
+
+Hypothesis: Some police officer in the city has used a stun gun. ",contradiction,Elaborated,1
+"Premise: Every student in the class received an A on their exam. 
+
+Hypothesis: Some students in the class did not receive an A on their exam. ",contradiction,Elaborated,1

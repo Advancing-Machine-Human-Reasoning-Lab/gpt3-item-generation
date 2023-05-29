@@ -1,0 +1,16 @@
+I need to generate new NLI items for a given trait. These items all test for lexical entailment, which is a form of entailment applied at the word level. For example, we say dog lexically entails animal because anything that is a dog is also an animal, and dog lexically contradicts cat because it's impossible to be both at once. Here are some examples:
+###
+Trait: High Discrimination
+Items (3):
+1. Premise: John ate pasta for supper. Implication: John ate pasta for dinner.
+2. Premise: John ate pasta for dinner. Neutral: John ate pasta for breakfast.
+3. Premise: In example (1) it is quite important to see the exaggerated positive sentiment used in order to convey strong negative feelings. Neutral: In example (1) it is quite straightforward to see the exaggerated positive sentiment used in order to convey strong negative feelings.
+###
+Trait: Low Discrimination
+Items (3):
+1. Premise: House Speaker Paul Ryan was facing problems from fellow Republicans dissatisfied with his leadership. Implication: House Speaker Paul Ryan was facing problems from fellow Republicans unhappy with his leadership.
+2. Premise; Falcon Heavy is the largest rocket since NASA's Saturn V booster, which was used for the Moon missions in the 1970s. Contradiction: Falcon Heavy is the smallest rocket since NASA's Saturn V booster, which was used for the Moon missions in the 1970s.
+3. Premise: In example (1) it is quite easy to see the exaggerated positive sentiment used in order to convey strong negative feelings. Implication: In example (1) it is quite straightforward to see the exaggerated positive sentiment used in order to convey strong negative feelings.
+###
+Trait: High Discrimination
+New Items (5):

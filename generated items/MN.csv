@@ -1,0 +1,46 @@
+item,label,Prompt Type,Top P
+"Premise: The company has been struggling financially, but it is still possible to turn things around. 
+
+Hypothesis: The company has been struggling financially, but it is not impossible to turn things around. ",entailment,Simple,0.5
+"Premise: The new policy is not effective, but it is still worth trying. 
+
+Hypothesis: The new policy is ineffective, but it is still worth trying. ",entailment,Elaborated,0.5
+"Premise: The project was not successful, but it still had some positive outcomes. 
+
+Hypothesis: The project was unsuccessful, but it still had some positive outcomes. ",entailment,Elaborated,0.5
+"Premise: The new law is not enforceable, but it is still important. 
+
+Hypothesis: The new law is unenforceable, but it is still important. ",entailment,Elaborated,0.5
+"Premise: The CEO has made it clear that she will not tolerate any unethical behavior. 
+
+Hypothesis: The CEO has made it clear that she will only tolerate ethical behavior. ",entailment,Simple,0.5
+"Premise: Despite a decrease in fuel prices, general costs of living are still high. 
+
+Hypothesis: Despite a decrease in fuel prices, general costs of living are not low. ",entailment,Simple,1
+"Premise: He was not happy with the decision, but he accepted it. 
+
+Hypothesis: He was unhappy with the decision, but he accepted it. ",entailment,Elaborated,0.5
+"Premise: She was not interested in the job, but she applied anyway. 
+
+Hypothesis: She was disinterested in the job, but she applied anyway. ",entailment,Elaborated,0.5
+"Premise: The Democrats have traditionally been strong on healthcare reform, but they have been weaker on education reform. 
+
+Hypothesis: The Democrats have traditionally been strong on healthcare reform, but not as strong on education reform. ",entailment,Simple,1
+"Premise: The new software update is difficult to navigate. 
+
+Hypothesis: The new software update is not easy to navigate. ",entailment,Simple,1
+"Premise: Video games can be educational. 
+
+Hypothesis: Video games cannot be educational. ",contradiction,Simple,1
+"Premise: The company's growth trend is unlikely to last. 
+
+Hypothesis: The company's growth trend is certain to last. ",contradiction,Elaborated,1
+"Premise: The company conducted extensive research before releasing the product. 
+
+Hypothesis: The company did not conduct extensive research before releasing the product. ",contradiction,Simple,1
+"Premise: The mayor will not attend the rally. 
+
+Hypothesis: The mayor will attend the rally. ",contradiction,Simple,1
+"Premise: The new law requires employers to provide paid sick leave. 
+
+Hypothesis: The new law requires employers to provide unpaid sick leave. ",contradiction,Simple,0.5

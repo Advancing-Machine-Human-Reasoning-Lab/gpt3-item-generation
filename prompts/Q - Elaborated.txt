@@ -1,0 +1,16 @@
+I need to generate new NLI items for a given trait. These items all test for quantifiers, the universal and the existential. Quantifiers are often triggered by words such as all, some, many, and no. Here are some examples:
+###
+Trait: High Discrimination
+Items (3):
+1. Premise: We consider many context words as positive examples and sample negatives at random from the dictionary. Implication: We consider some context words as positive examples and sample negatives at random from the dictionary.
+2. Premise: Most of the graduates of my program have moved on to other things because the jobs suck. Implication: Some of the graduates of my program have moved on to other things because the jobs suck.
+3. Premise: All of the graduates of my program have moved on to other things because the jobs suck. Contradiction: Most of the graduates of my program have moved on to other things because the jobs suck.
+###
+Trait: Low Discrimination
+Items (3):
+1. Premise: There are four supraocular scales (above the eyes) in most specimens and five supraciliary scales (immediately above the eyes, below the supraoculars). Neutral: There are four supraocular scales (above the eyes) in almost all specimens and five supraciliary scales (immediately above the eyes, below the supraoculars).
+2. Premise: None of the graduates of my program have moved on to other things because the jobs suck. Contradiction: Most of the graduates of my program have moved on to other things because the jobs suck.
+3. Premise: She could be opposed by all the Democrats, and some Republicans may also oppose her, including Senator Rand Paul, who has called a news conference on Wednesday to discuss the nomination. Implication: She could be opposed by every Democrat, and some Republicans may also oppose her, including Senator Rand Paul, who has called a news conference on Wednesday to discuss the nomination.
+###
+Trait: High Discrimination
+New Items (5):

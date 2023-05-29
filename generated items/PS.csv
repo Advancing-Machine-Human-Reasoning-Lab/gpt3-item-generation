@@ -1,0 +1,46 @@
+item,label,Prompt Type,Top P
+"Premise: Online orders cannot be returned in store. 
+
+Hypothesis: Online orders can be returned by mail. ",neutral,Elaborated,1
+"Premise: He was late for the meeting. 
+
+Hypothesis: He was either late or on time for the meeting. ",entailment,Simple,0.5
+"Premise: She is a talented singer. 
+
+Hypothesis: She is either a talented singer or an untalented singer. ",entailment,Simple,0.5
+"Premise: The river is too shallow to swim in. 
+
+Hypothesis: Either the river is too deep to swim in or it is too shallow to swim in. ",entailment,Simple,0.5
+"Premise: The store is closed on Sundays. 
+
+Hypothesis: If the store is open on Sundays, then it is open on other days. ",entailment,Simple,0.5
+"Premise: The cat is black. 
+
+Hypothesis: The cat is not white. ",entailment,Simple,0.5
+"Premise: The room is dark. 
+
+Hypothesis: The room is either dark or illuminated. ",entailment,Simple,0.5
+"Premise: The river is wide. 
+
+Hypothesis: The river is either wide or narrow. ",entailment,Simple,0.5
+"Premise: It is raining. 
+
+Hypothesis: It is not sunny. ",entailment,Simple,1
+"Premise: John has a positive attitude. 
+
+Hypothesis: John either has a positive attitude or he has no attitude at all. ",entailment,Simple,1
+"Premise: The defendant was found guilty. 
+
+Hypothesis: The defendant was either found guilty or found not guilty. ",entailment,Elaborated,0.5
+"Premise: The company has a strict policy on overtime. 
+
+Hypothesis: The company either has a strict policy on overtime or it does not have a strict policy on overtime. ",entailment,Elaborated,0.5
+"Premise: It is impossible to predict the future. 
+
+Hypothesis: If it is possible to predict the future, then it is not impossible to predict the future. ",entailment,Elaborated,0.5
+"Premise: It is unethical to take advantage of vulnerable people. 
+
+Hypothesis: If it is ethical to take advantage of vulnerable people, then it is not unethical to take advantage of vulnerable people. ",entailment,Elaborated,0.5
+"Premise: The child is able to complete complex math problems. 
+
+Hypothesis: The child is not able to complete complex math problems. ",contradiction,Elaborated,1

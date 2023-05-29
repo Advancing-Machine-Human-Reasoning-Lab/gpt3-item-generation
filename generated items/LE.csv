@@ -1,0 +1,46 @@
+item,label,Prompt Type,Top P
+"Premise: John ate pizza for dinner. 
+
+Hypothesis: John ate pizza for breakfast. ",neutral,Simple,0.5
+"Premise: Jane sighed in exasperation. 
+
+Hypothesis: Jane sighed in frustration. ",neutral,Simple,1
+"Premise: The Trump administration is handling trade negotiations with China. 
+
+Hypothesis: The Obama administration is handling trade negotiations with China. ",neutral,Elaborated,1
+"Premise: The dog was very loyal. 
+
+Hypothesis: The dog was very faithful. ",entailment,Elaborated,1
+"Premise: Joanne found a job at the fast food restaurant. 
+
+Hypothesis: Joanne found a job at the fast food joint. ",entailment,Simple,1
+"Premise: The company's new product was a huge success. 
+
+Hypothesis: The company's new product was a great success. ",entailment,Elaborated,0.5
+"Premise: John was late for work. 
+
+Hypothesis: John was tardy for work. ",entailment,Elaborated,0.5
+"Premise: John bought a new car. 
+
+Hypothesis: John bought a new vehicle. ",entailment,Simple,0.5
+"Premise: The cat was very grumpy. 
+
+Hypothesis: The cat was very cheerful. ",contradiction,Elaborated,1
+"Premise: The president is facing problems from fellow Republicans dissatisfied with her leadership. 
+
+Hypothesis: The president is facing problems from fellow Republicans pleased with her leadership. ",contradiction,Elaborated,1
+"Premise: John ate pizza for dinner. 
+
+Hypothesis: John ate fish for dinner. ",contradiction,Simple,1
+"Premise: John ate steak for dinner. 
+
+Hypothesis: John ate fish for dinner. ",contradiction,Elaborated,1
+"Premise: The lawyer spoke extensively in defense of her client. 
+
+Hypothesis: The lawyer spoke briefly in defense of her client. ",contradiction,Simple,1
+"Premise: The President's speech was positively received by the crowd. 
+
+Hypothesis: The President's speech was negatively received by the crowd.  ",contradiction,Elaborated,0.5
+"Premise: The pencil was very sharp. 
+
+Hypothesis: The pencil was very dull. ",contradiction,Elaborated,1
