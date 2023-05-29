@@ -12,15 +12,4 @@ Generated items are csvs with the following columns:
 ## Citation
 If you find this work useful, please cite us:
 
-`
-@inproceedings{laverghetta-jr-licato-2023-generating,
-    title = "Generating Better Items for Cognitive Assessments Using Large Language Models",
-    author = "Laverghetta Jr., Antonio  and
-      Licato, John",
-    booktitle = "Proceedings of the 18th Workshop on Innovative Use of NLP for Building Educational Applications",
-    month = july,
-    year = "2023",
-    address = "Toronto, Canada",
-    publisher = "Association for Computational Linguistics",
-}
-`
+> Laverghetta Jr., A., & Licato, J. (2023). Generating Better Items for Cognitive Assessments Using Large Language Models. Proceedings of the 18th Workshop on Innovative Use of NLP for Building Educational Applications.
